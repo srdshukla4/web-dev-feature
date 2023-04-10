@@ -1,0 +1,55 @@
+.header {
+    background-color: aqua;
+}
+
+.main {
+    background-color: black;
+}
+
+p {
+    width: 10rem;
+    font-size: clamp(3px, 1rem+10vw, 200px);
+    display: flex;
+}
+
+.header {
+    background-color: black;
+    color: antiquewhite;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.body {
+    background-color: rgb(146, 87, 202);
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+    border: 1px;
+    border-color: black;
+}
+
+@media (width >=700px) {
+    .body {
+        flex-direction: row;
+        background-color: blue;
+    }
+}
+
+@media (width >=1200px) {
+    .body {
+        flex-direction: row;
+        background-color: rgb(57, 57, 58);
+        color: chocolate;
+    }
+}
+
+.box {
+    background-color: aquamarine;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin: 1px;
+    border: 1px;
+    border-color: black;
+}

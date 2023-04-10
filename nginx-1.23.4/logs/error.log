@@ -1,0 +1,124 @@
+2023/04/05 23:02:02 [notice] 10000#15376: signal process started
+2023/04/05 23:02:23 [notice] 5564#2376: signal process started
+2023/04/05 23:02:23 [error] 5564#2376: CreateFile() "C:\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/05 23:02:32 [notice] 30832#30184: signal process started
+2023/04/05 23:02:32 [error] 30832#30184: CreateFile() "C:\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/05 23:16:37 [notice] 9724#27488: signal process started
+2023/04/05 23:27:43 [emerg] 20860#19588: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:28:08 [emerg] 28324#27788: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:28:11 [emerg] 19504#29364: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:42:13 [emerg] 4912#21948: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:42:35 [emerg] 12968#19220: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:42:48 [emerg] 15324#27708: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:42:58 [emerg] 16176#16832: invalid number of arguments in "root" directive in C:\nginx-1.23.4/conf/nginx.conf:4
+2023/04/05 23:52:37 [error] 22104#3900: *1 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:52:38 [error] 22104#3900: *1 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/04/05 23:54:43 [notice] 2136#22916: signal process started
+2023/04/05 23:55:16 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:56:09 [notice] 30660#9684: signal process started
+2023/04/05 23:56:15 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:56:17 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:56:26 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:56:29 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:57:22 [notice] 25584#24912: signal process started
+2023/04/05 23:57:27 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:57:30 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/05 23:57:47 [error] 22104#3900: *4 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\git_practise\GIT_PRACTISE_NEW/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/04/06 01:03:32 [error] 31676#21896: *1 "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW/dashboard/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /dashboard/ HTTP/1.1", host: "dev.localhost:8080"
+2023/04/06 01:03:33 [error] 31676#21896: *1 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "dev.localhost:8080", referrer: "http://dev.localhost:8080/dashboard/"
+2023/04/06 01:05:49 [emerg] 27160#15976: unknown directive "type" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:2
+2023/04/06 01:06:08 [emerg] 24300#13744: unexpected "{" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:6
+2023/04/06 01:06:56 [notice] 21984#28368: signal process started
+2023/04/06 01:23:03 [warn] 27108#1436: duplicate extension "html", content type: "text/html", previous content type: "text/html" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:6
+2023/04/06 01:23:03 [warn] 27108#1436: duplicate extension "gif", content type: "image/gif", previous content type: "image/gif" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:7
+2023/04/06 01:23:03 [warn] 27108#1436: duplicate extension "jpg", content type: "image/jpeg", previous content type: "image/jpeg" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:8
+2023/04/06 01:23:03 [warn] 27108#1436: duplicate extension "css", content type: "text/css", previous content type: "text/css" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:9
+2023/04/06 01:23:03 [warn] 27108#1436: duplicate extension "png", content type: "image/png", previous content type: "image/png" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:10
+2023/04/06 01:23:03 [notice] 27108#1436: signal process started
+2023/04/06 01:23:03 [warn] 25644#30096: duplicate extension "html", content type: "text/html", previous content type: "text/html" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:6
+2023/04/06 01:23:03 [warn] 25644#30096: duplicate extension "gif", content type: "image/gif", previous content type: "image/gif" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:7
+2023/04/06 01:23:03 [warn] 25644#30096: duplicate extension "jpg", content type: "image/jpeg", previous content type: "image/jpeg" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:8
+2023/04/06 01:23:03 [warn] 25644#30096: duplicate extension "css", content type: "text/css", previous content type: "text/css" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:9
+2023/04/06 01:23:03 [warn] 25644#30096: duplicate extension "png", content type: "image/png", previous content type: "image/png" in C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/conf/nginx.conf:10
+2023/04/06 01:23:22 [notice] 25672#21520: signal process started
+2023/04/06 01:23:54 [error] 7988#33496: *9 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW404" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /home HTTP/1.1", host: "localhost:8080"
+2023/04/06 01:26:02 [notice] 15028#15492: signal process started
+2023/04/06 01:28:50 [notice] 24364#9380: signal process started
+2023/04/06 09:48:16 [notice] 27124#21476: signal process started
+2023/04/06 11:52:21 [error] 24176#14632: *35 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /apis?timeout=32s HTTP/1.1", upstream: "http://127.0.0.1:1111/apis?timeout=32s", host: "localhost:8080"
+2023/04/06 11:52:23 [error] 24176#14632: *35 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /apis?timeout=32s HTTP/1.1", upstream: "http://127.0.0.1:2222/apis?timeout=32s", host: "localhost:8080"
+2023/04/06 20:09:43 [notice] 5800#16408: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:09:43 [emerg] 5800#16408: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:09:43 [emerg] 5800#16408: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/06 20:09:43 [notice] 24080#28100: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:09:43 [emerg] 24080#28100: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:09:43 [emerg] 24080#28100: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/06 20:11:19 [notice] 28972#22116: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:11:19 [emerg] 28972#22116: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:11:19 [emerg] 28972#22116: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/06 20:11:19 [notice] 28972#22116: signal process started
+2023/04/06 20:14:40 [notice] 16196#9424: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:14:40 [emerg] 16196#9424: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:14:40 [emerg] 16196#9424: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/06 20:14:40 [notice] 5264#4084: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:14:40 [emerg] 5264#4084: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:14:40 [emerg] 5264#4084: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/06 20:16:36 [notice] 27212#30132: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:16:36 [emerg] 27212#30132: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:16:36 [emerg] 27212#30132: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/06 20:16:36 [notice] 19260#16464: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/06 20:16:36 [emerg] 19260#16464: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/06 20:16:36 [emerg] 19260#16464: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:32:28 [error] 24176#14632: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:2222/", host: "localhost:8080"
+2023/04/07 00:32:38 [error] 24176#14632: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:1111/", host: "localhost:8080"
+2023/04/07 00:32:53 [notice] 22916#19268: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:32:53 [emerg] 22916#19268: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:32:53 [emerg] 22916#19268: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:32:53 [notice] 22916#19268: signal process started
+2023/04/07 00:34:39 [notice] 8404#29688: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:34:39 [emerg] 8404#29688: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:34:39 [emerg] 8404#29688: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:34:39 [notice] 8404#29688: signal process started
+2023/04/07 00:34:39 [error] 8404#29688: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/07 00:35:34 [notice] 11300#6972: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:35:34 [emerg] 11300#6972: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:35:34 [emerg] 11300#6972: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:35:35 [notice] 24712#4460: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:35:35 [emerg] 24712#4460: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:35:35 [emerg] 24712#4460: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:35:44 [notice] 28824#5744: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:35:44 [emerg] 28824#5744: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:35:44 [emerg] 28824#5744: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:35:44 [notice] 32472#3824: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:35:44 [emerg] 32472#3824: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:35:44 [emerg] 32472#3824: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:37:00 [notice] 19800#21960: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:37:00 [emerg] 19800#21960: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:37:00 [emerg] 19800#21960: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:37:00 [notice] 18740#10552: using inherited sockets from "C:\nginx-1.23.4"
+2023/04/07 00:37:00 [emerg] 18740#10552: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring the rest of the variable
+2023/04/07 00:37:00 [emerg] 18740#10552: invalid socket number "C:\nginx-1.23.4" in NGINX environment variable, ignoring
+2023/04/07 00:45:33 [error] 2224#14204: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:1111/", host: "127.0.0.1:8080"
+2023/04/07 00:45:35 [error] 2224#14204: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:2222/", host: "127.0.0.1:8080"
+2023/04/07 00:45:37 [error] 2224#14204: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3333/", host: "127.0.0.1:8080"
+2023/04/07 00:45:37 [error] 2224#14204: *1 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://backupservers/favicon.ico", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2023/04/07 00:46:15 [notice] 24100#19856: signal process started
+2023/04/07 00:47:36 [error] 10164#19132: *3 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW/number" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /number HTTP/1.1", host: "127.0.0.1:8080"
+2023/04/07 00:47:36 [error] 10164#19132: *3 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/number"
+2023/04/07 00:48:44 [notice] 19196#17808: signal process started
+2023/04/07 00:48:44 [error] 19196#17808: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/07 00:49:12 [notice] 13476#24868: signal process started
+2023/04/07 00:49:12 [error] 13476#24868: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/07 00:51:49 [notice] 11124#13272: signal process started
+2023/04/07 00:51:49 [error] 11124#13272: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/07 00:53:40 [notice] 21948#9504: signal process started
+2023/04/07 00:53:40 [error] 21948#9504: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/07 00:54:24 [notice] 10688#7004: signal process started
+2023/04/07 00:54:24 [error] 10688#7004: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/07 01:10:29 [error] 10164#19132: *12 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW/api" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /api?timeout=32s HTTP/1.1", host: "localhost:8080"
+2023/04/07 01:10:29 [error] 10164#19132: *12 CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW/apis" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /apis?timeout=32s HTTP/1.1", host: "localhost:8080"
+2023/04/07 08:00:10 [notice] 22768#32156: signal process started
+2023/04/07 08:00:10 [error] 22768#32156: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/09 10:28:28 [notice] 31984#35144: signal process started
+2023/04/09 10:28:28 [error] 31984#35144: CreateFile() "C:\Users\srdsh\OneDrive\Desktop\Sharad\Study\GIT_PRACTISE_NEW\nginx-1.23.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/04/09 10:37:06 [notice] 9380#26832: signal process started
